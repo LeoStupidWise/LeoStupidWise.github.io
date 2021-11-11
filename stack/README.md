@@ -1,1 +1,0 @@
-# LeoStupidWise.github.io

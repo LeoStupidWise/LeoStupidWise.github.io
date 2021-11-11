@@ -1,5 +1,15 @@
-title: Tactile theme
-description: Tactile is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
 theme: jekyll-theme-tactile
+
+# Site settings
+title: Zoe`s Blog
+email: leostupidwose@gmail.com
+description: Hello Word
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://LeoStupidWise.github.io/
+# rss_url: /pages/feed.xml
+author: Zoe
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
